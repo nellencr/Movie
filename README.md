@@ -17,7 +17,7 @@ It is the frontend react movie app that allow the user to  choose a favourite mo
 
 
 ## `Live Demo`
- [Live Demo](https://sharp-lumiere-f447a7.netlify.app)
+ [Live Demo](https://determined-elion-c594af.netlify.app)
 
 
 👤 **`Author`**
@@ -27,4 +27,4 @@ It is the frontend react movie app that allow the user to  choose a favourite mo
 - Linkedin: [Nela Komane](https://www.linkedin.com/in/nela-komane-8866b9192/)
 - Email: nellencr@gmail.com
 
-"# Movie" 
+
